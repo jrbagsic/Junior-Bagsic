@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junior Bagsic</h1>
+<h1 align="center">Hi, I'm Junior Bagsic</h1>
 <h3 align="center">A passionate Front End Developer from Toronto, Ontario, Canada</h3>
 
 - 🌱 I’m currently learning **React**
